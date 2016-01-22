@@ -1,2 +1,2 @@
-# matroidapi
-Public Matroid API
+# The Matroid API
+Public Matroid API coming soon.
